@@ -6,7 +6,7 @@ Pizza sales analysis using Power BI visualizes revenue, orders, top-selling pizz
 
 📌 Project Overview
 
-    This project analyzes pizza sales data to identify sales trends, top-selling products, revenue patterns, and customer preferences.
+This project analyzes pizza sales data to identify sales trends, top-selling products, revenue patterns, and customer preferences.
 
  🛠 Tools Used
 - Power BI
